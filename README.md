@@ -2,13 +2,13 @@
 
 ![plot](./images/Overall-Overall-Trips.png)
 
-In this project, the main goal is to derive analysis from taxi trips that happened on January 2020 at New York, which may be useful for business stakeholders for their planning.
+In this project, the main goal is to derive analysis from taxi trips that happened on January 2019 at New York, which may be useful for business stakeholders for their planning.
 
 ## High Level Overview
 
 ![plot](./images/Dashboard_Preview.png)
 
-Some insights that can be derived from **January 2020** report:
+Some insights that can be derived from **January 2019** report:
 - JFK Airport managed to attract customers that generated over $10,000,000 
 - The taxi are mostly used for rush hour (coming and leaving office) and slightly on the midnight of weekend
 - Manhattan was a favourite place for destination regardless of whether it's weekday or weekend
